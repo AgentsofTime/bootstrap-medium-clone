@@ -1,0 +1,17 @@
+.bg-yellow {
+    background-color: #ffc017;
+}
+
+.border-top-dark {
+    border-bottom: solid 1px #242424;
+    }
+
+body {
+    font-family: 'Playfair Display', serif;
+    font-family: 'PT Serif', serif;
+}
+
+.aside-buttons > li {
+    margin-bottom: 10px;
+    float: inline-start;
+}
